@@ -23,11 +23,32 @@ cujo objetivo seja possibilitar que usuários da NG consigam realizar transferê
 
 ## Pré-Requisitos
 
-Este projeto Utiliza o banco de dados PostgreSQL, para o perfeito funcionamento é necessário ter o banco de dados em sua máquina.
+Este projeto Utiliza o banco de dados PostgreSQL e Docker , para o perfeito funcionamento é necessário ter o banco de dados em sua máquina.
 Para instruções sobre a instalação do banco de dados acesse [PostgreSQL](https://www.postgresql.org/docs/)
+
+Para instruções sobre a instalação do docker acesse [Dokcer](https://www.postgresql.org/docs/)
 
 ## Instalação
 
 -Clone o repositório através da seguinte chave https: `https://github.com/hugoemannuel/Processo-Seletivo-NG-CASH.git`
 
 -Para iniciar a aplicação rode o comando `npm start` em seu terminal.
+
+## Como utilizar
+
+O projeto começa com o cliente tendo que criar conta no `NG CASH`, onde deve passar  seu nome com no mínimo 4 caracteres e
+Senha com no mínimo 8 caracteres.
+
+![DemonstraçaoCriaçãoUser](/images/cadastrar.png)
+
+Após isto o cliente deverá efetuar o login, onde deve passar o nome e senha assim será verificado se o cliente existe no banco de dados e gerado um token JWT para o cliente fazer operações de transferência.
+
+![DemonstraçãoLogin](/images/logar.png)
+
+Para fazer transferência é necessário clicar no botão `Nova transação`
+
+![DemonstraçãoBtn](/images/nova transação.png)
+
+logo após digite o nome da pessoa que ira receber e o valor a ser pago
+
+![DemonstraçãoTranferir](/images/realizar transações.png)

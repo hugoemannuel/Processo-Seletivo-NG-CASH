@@ -47,8 +47,8 @@ Após isto o cliente deverá efetuar o login, onde deve passar o nome e senha as
 
 Para fazer transferência é necessário clicar no botão `Nova transação`
 
-![DemonstraçãoBtn](/images/nova transação.png)
+![DemonstraçãoBtn](/images/novatransação.png)
 
 logo após digite o nome da pessoa que ira receber e o valor a ser pago
 
-![DemonstraçãoTranferir](/images/realizar transações.png)
+![DemonstraçãoTranferir](/images/realizartransações.png)

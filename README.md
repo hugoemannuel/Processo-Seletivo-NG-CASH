@@ -23,8 +23,10 @@ cujo objetivo seja possibilitar que usuários da NG consigam realizar transferê
 
 ## Pré-Requisitos
 
-Este projeto Utiliza o banco de dados PostgreSQL, para o perfeito funcionamento é necessário ter o banco de dados em sua máquina.
+Este projeto Utiliza o banco de dados PostgreSQL e Docker , para o perfeito funcionamento é necessário ter o banco de dados em sua máquina.
 Para instruções sobre a instalação do banco de dados acesse [PostgreSQL](https://www.postgresql.org/docs/)
+
+Para instruções sobre a instalação do docker acesse [Dokcer](https://www.postgresql.org/docs/)
 
 ## Instalação
 

@@ -39,7 +39,9 @@ Para instruções sobre a instalação do docker acesse [Dokcer](https://www.pos
 O projeto começa com o cliente tendo que criar conta no `NG CASH`, onde deve passar  seu nome com no mínimo 4 caracteres e
 Senha com no mínimo 8 caracteres.
 
-![DemonstraçaoCriaçãoUser](/images/logar.png)
+![DemonstraçaoCriaçãoUser](/images/cadastrar.png)
 
+Após isto o cliente deverá efetuar o login, onde deve passar o nome e senha assim será verificado se o cliente existe no banco de dados e gerado um token JWT para o cliente fazer operações de transferência.
 
+![DemonstraçãoLogin](/images/logar.png)
 

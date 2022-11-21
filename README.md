@@ -33,3 +33,13 @@ Para instruções sobre a instalação do docker acesse [Dokcer](https://www.pos
 -Clone o repositório através da seguinte chave https: `https://github.com/hugoemannuel/Processo-Seletivo-NG-CASH.git`
 
 -Para iniciar a aplicação rode o comando `npm start` em seu terminal.
+
+## Como utilizar
+
+O projeto começa com o cliente tendo que criar conta no `NG CASH`, onde deve passar  seu nome com no mínimo 4 caracteres e
+Senha com no mínimo 8 caracteres.
+
+![DemonstraçaoCriaçãoUser](/images/logar.png)
+
+
+

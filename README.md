@@ -29,4 +29,5 @@ Para instruções sobre a instalação do banco de dados acesse [PostgreSQL](htt
 ## Instalação
 
 -Clone o repositório através da seguinte chave https: `https://github.com/hugoemannuel/Processo-Seletivo-NG-CASH.git`
+
 -Para iniciar a aplicação rode o comando `npm start` em seu terminal.

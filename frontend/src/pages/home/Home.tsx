@@ -98,7 +98,7 @@ const Home: React.FC = () => {
       <Button
         onClick={() => setOpenModal(true)}
         variant="contained"
-        style={{ left: '90%', marginTop: '10px' }}>Nova transaçao</Button>
+        style={{ left: '90%', marginTop: '10px' }}>Nova transação</Button>
       {transaction.length && (
         <TableHome transaction={transaction} />
       )}
